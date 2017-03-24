@@ -1,7 +1,7 @@
 # NodeDirQuery
-Query files and files within director for search string
+Query files or files within directory for search string
 
-To retrieve number of hits in the directory structure of pre-determined search terms run 
+To retrieve number of hits of pre-determined search terms in the directory structure, run 
 public/nodedir.js
 
 To search terms in a specific file, run 
